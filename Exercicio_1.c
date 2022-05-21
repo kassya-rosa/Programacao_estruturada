@@ -1,20 +1,16 @@
-//Variável é alocação de espaço em memória
-// A variável tem 3 elecomentos: nome (identificação), tipo e valor
-// Tipos principais: Int, Char, Float e Double
-
-// Informar a idade, se tiver menos do que 18, não vota, mais do que 18, vota.
+// Informar a idade, se tiver menos do que 18, nÃ£o vota, mais do que 18, vota.
 
 /*
-Menor que 0 - não nasceu
-0 até 15 não vota
+Menor que 0 - nÃ£o nasceu
+0 atÃ© 15 nÃ£o vota
 16 ou 17 - opcional
-18 até 64 - obrigatório
+18 atÃ© 64 - obrigatÃ³rio
 65 ou mais - opcional
-41 - ganha prêmio 1 $$$
-82 - ganha prêmio 2 $$$
+41 - ganha prÃªmio 1 $$$
+82 - ganha prÃªmio 2 $$$
 */
 
-// Não utilizar else if, e &&, ou ||, switch case. Apenas if else.
+// NÃ£o utilizar else if, e &&, ou ||, switch case. Apenas if else.
 
 #include<stdio.h>
 
